@@ -1,3 +1,1 @@
-# Sawed-off Consulting
-
-Make your Shotgun site more powerful!
+# Make your Shotgun site more powerful!
