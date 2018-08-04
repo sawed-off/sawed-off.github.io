@@ -1,3 +1,3 @@
-# sawed-off.github.io
+# Sawed-off Consulting
 
-Website using github pages
+Make your Shotgun site more powerful!
