@@ -14,6 +14,10 @@
     width: 50%;
 }
 
+.max-width-hack {
+    max-width: 320;
+}
+
 .typewriter {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
