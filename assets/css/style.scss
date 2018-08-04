@@ -20,6 +20,7 @@
 }
 
 .typewriter {
+  max-width: 61%; /* RA try to fix the blip
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
