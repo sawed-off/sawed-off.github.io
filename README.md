@@ -4,6 +4,6 @@
 
 <div class="max-width-hack">
   <div class="typewriter">
-    <strong><a href="mailto:get-in-touch@sawed-off.com?Subject=Inquiry%20from%20website">email us: get-in-touch@sawed-off.com</a></strong>
+    <strong>no more email address thanks to internet spam</a></strong>
   </div>
 </div>
