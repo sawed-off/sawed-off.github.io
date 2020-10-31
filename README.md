@@ -4,6 +4,6 @@
 
 <div class="max-width-hack">
   <div class="typewriter">
-    <strong>no more email here : internet spambots</a></strong>
+    <strong>no more email here : internet spambots</strong>
   </div>
 </div>
